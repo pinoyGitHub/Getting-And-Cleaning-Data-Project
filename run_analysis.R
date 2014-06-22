@@ -20,7 +20,7 @@ download.file(fileUrl, destfile = "Dataset.zip")
 unzip("Dataset.zip")
 
 
-# read the subject files
+# 0.2 read the subject files
 dtsubject_test <- read.table("./UCI HAR Dataset/test/subject_test.txt", col.names = c('subject'))
 dtsubject_train <- read.table("./UCI HAR Dataset/train/subject_train.txt", col.names = c('subject'))
 
