@@ -5,7 +5,7 @@
 
 ##  Raw Data Set:
 
-The project is based on Human Activity Recognition Using Smartphones, Complete descriptions can be access at : [Human Activity Recognition Using Smartphones ](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones ).
+The project is based on Human Activity Recognition Using Smartphones, Complete descriptions can be accessed at : [Human Activity Recognition Using Smartphones ](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones ).
 
 The  data can be downloaded  [here](Human Activity Recognition Using Smartphones ) 
 
