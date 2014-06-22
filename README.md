@@ -17,7 +17,9 @@ How the Script Works:
   4. Appropriately labels the data set with descriptive activity names.
   5. independent tidy set with the average of each variable for each activity and each subject.
 
-Notes: Comments are included in the program.
+Notes: Comments are included on the program.
+
+Data Source: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 Running the script
 
