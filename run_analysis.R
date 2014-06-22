@@ -20,7 +20,7 @@ download.file(fileUrl, destfile = "Dataset.zip")
 unzip("Dataset.zip")
 
 
-# 0.2 read the subject files
+# read the subject files
 dtsubject_test <- read.table("./UCI HAR Dataset/test/subject_test.txt", col.names = c('subject'))
 dtsubject_train <- read.table("./UCI HAR Dataset/train/subject_train.txt", col.names = c('subject'))
 
@@ -57,6 +57,8 @@ for (i in 1:nrow(labels)) {
 # 4.Appropriately labels the data set with descriptive variable names. 
 tmp_X_labels <- cbind(y, X)
 tmpMeanSTD_labels <- cbind(y, tmpMeanSTD)
+cleaned <- cbind(S, Y, X)
+write.table(cleaned, "mergeddata.txt")
 
 
 # 5.Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
