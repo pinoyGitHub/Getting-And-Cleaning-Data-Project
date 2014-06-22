@@ -6,7 +6,7 @@ Project Codebook:
 Raw Data Set:
 
 The project is based on Human Activity Recognition Using Smartphones: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-and data can be downloaded here https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+and data can be downloaded to https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 Cleaning the data set:
 
