@@ -8,7 +8,7 @@ This is a repository of script/parser program called run_analysis.R
 
 ## How the Script Works:
   
-    0.1  The script download the data sets and unzip the data
+    0.1  The script download the data set and unzip the data
   
     0.2 Read the subject files, label and features files
   
@@ -20,7 +20,7 @@ This is a repository of script/parser program called run_analysis.R
 
 Notes: Comments are included on the program.
 
-Data Source: [Human Activity Recognition using Smartphones]
+Data Source: [[Human Activity Recognition using Smartphones](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip )]
 
 ## Running the script
 Using R Studio, simply open the file run_analysis.R, select all the content and click Run.
